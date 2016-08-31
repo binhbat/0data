@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=600000
+http://183.207.255.190/live/program/live/cctv1/1300000/mnf.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000
+http://183.207.255.190/live/program/live/cctv1/2300000/mnf.m3u8

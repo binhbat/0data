@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=357103
+https:/vitinhkk.github.io/tv19/low/ru4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=707099
+https:/vitinhkk.github.io/tv19/med/ru4.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1677946
+https:/vitinhkk.github.io/tv19/high/ru4.m3u8
